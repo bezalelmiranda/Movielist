@@ -1,0 +1,2 @@
+INSERT INTO FILME(titulo, genero, restricao, favorito) values ('Homem-Aranha: Sem Volta para Casa','Ação/Aventura', 12, 1);
+INSERT INTO FILME(titulo, genero, restricao, favorito) values ('Shang-Chi e a Lenda dos Dez Anéis','Ação/Aventura', 12, 1);
